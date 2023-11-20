@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋  
 
 <!--
 **NathanPesneau/NathanPesneau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 I'm currently learning web developpement at Ada Tech School.
-  ➡︎ 
-  ➡︎ 
-  ➡︎ 
-🌱 Before this career change I gratuaded an ecology and agronomy master degree and worked in this field for a bit.
-🛠 I'm also working on a side project that will be out soon! 
+💻 I'm currently learning web developpement at Ada Tech School.  
+🌱 Before this career change I gratuaded an ecology and agronomy master degree and worked in this field for a bit.  
+🛠 I'm also working on a side project that will be out soon!  
