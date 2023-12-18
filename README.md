@@ -9,7 +9,7 @@
 ## Front 
 [![FrontSkills](https://skillicons.dev/icons?i=html,css,react,tailwind)](https://skillicons.dev)
 
-## Back & databases
+## Back
 [![Back&DBSkills](https://skillicons.dev/icons?i=js,python,java,spring,php,laravel,nodejs,mysql,postgres)](https://skillicons.dev)
 
 ## Tools 
