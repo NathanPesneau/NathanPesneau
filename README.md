@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 💻 I'm currently learning web & software developpement at Ada Tech School.  
   
 🌱 Before this career change I gratuaded an ecology and agronomy master degree and worked in this field for a bit.  
+  
+🛠 You will find here some of the group projects I worked on! 
+  
+https://img.shields.io/badge/javascript-%23F7DF1E https://img.shields.io/badge/python-%233776AB https://img.shields.io/badge/java-%23f89820 https://img.shields.io/badge/php-%23777BB4 https://img.shields.io/badge/R-%23276DC3
 
-https://img.shields.io/badge/just%20the%20javascript-#F7DF1E
-  
-🛠 You will find here some of the group projects I worked on! I'm also working on a side project that will be out soon. 
-  
+ 
