@@ -20,19 +20,11 @@ Here are some ideas to get you started:
 🛠 You will find here some of the group projects I worked on, programming languages & tools I have used.
 📫 How to reach me: nathan.pesneau@gmail.com
 
-##Front 
+## Front 
 [![FrontSkills](https://skillicons.dev/icons?i=html,css,react,tailwind)](https://skillicons.dev)
 
-##Back
-[![BackSkills](https://skillicons.dev/icons?i=js,python,php,nodejs)](https://skillicons.dev)
+## Back & databases
+[![Back&DBSkills](https://skillicons.dev/icons?i=js,python,php,nodejs,mysql,postgres)](https://skillicons.dev)
 
-##Databases 
-[![Databases](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
-
-##Tools 
+## Tools 
 [![Tools](https://skillicons.dev/icons?i=docker,postman,github,figma)](https://skillicons.dev)
-
-  
-<!-- https://img.shields.io/badge/javascript-%23F7DF1E https://img.shields.io/badge/python-%233776AB https://img.shields.io/badge/java-%23f89820 https://img.shields.io/badge/php-%23777BB4 https://img.shields.io/badge/R-%23276DC3 -->
-
- 
