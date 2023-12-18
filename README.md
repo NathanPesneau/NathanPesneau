@@ -10,7 +10,7 @@
 [![FrontSkills](https://skillicons.dev/icons?i=html,css,react,tailwind)](https://skillicons.dev)
 
 ## Back
-[![Back&DBSkills](https://skillicons.dev/icons?i=js,python,java,spring,php,laravel,nodejs,mysql,postgres)](https://skillicons.dev)
+[![Back&DBSkills](https://skillicons.dev/icons?i=js,python,java,spring,php,laravel,nodejs,r,mysql,postgres)](https://skillicons.dev)
 
 ## Tools 
 [![Tools](https://skillicons.dev/icons?i=docker,postman,github,figma)](https://skillicons.dev)
