@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![FrontSkills](https://skillicons.dev/icons?i=html,css,react,tailwind)](https://skillicons.dev)
 
 ## Back & databases
-[![Back&DBSkills](https://skillicons.dev/icons?i=js,python,php,nodejs,mysql,postgres)](https://skillicons.dev)
+[![Back&DBSkills](https://skillicons.dev/icons?i=js,python,php,laravel,nodejs,mysql,postgres)](https://skillicons.dev)
 
 ## Tools 
 [![Tools](https://skillicons.dev/icons?i=docker,postman,github,figma)](https://skillicons.dev)
