@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   
 🛠 You will find here some of the group projects I worked on! 
 
-[![My Skills](https://skillicons.dev/icons?i=js,python,java,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,java,php&theme=light)](https://skillicons.dev)
 
 [![Tools](https://skillicons.dev/icons?i=docker,postman,github,trello,miro)](https://skillicons.dev)
 
