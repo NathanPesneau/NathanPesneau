@@ -1,9 +1,8 @@
 ## Hi there 👋  
 
-💻 I'm currently learning web & software developpement at Ada Tech School.  
+💻 I'm currently doing a 12 month apprenticeship in Nantes at https://les-tilleuls.coop/
 🌱 Before this career change I gratuaded an ecology and agronomy master degree and worked in this field for a bit.  
 🛠 You will find here some of the group projects I worked on, programming languages & tools I have used.  
-💼 I'm doing a 12 month apprenticeship in Nantes at https://les-tilleuls.coop/.  
 📫 How to reach me: nathan.pesneau@gmail.com
 
 ## Front 
