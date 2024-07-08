@@ -1,6 +1,6 @@
 ## Hi there 👋  
 
-💻 I'm currently doing a 12 month apprenticeship in Nantes at https://les-tilleuls.coop/
+💻 I'm currently doing a 12 month apprenticeship in Nantes at https://les-tilleuls.coop/  
 🌱 Before this career change I gratuaded an ecology and agronomy master degree and worked in this field for a bit.  
 🛠 You will find here some of the group projects I worked on, programming languages & tools I have used.  
 📫 How to reach me: nathan.pesneau@gmail.com
