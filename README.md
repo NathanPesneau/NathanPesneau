@@ -1,15 +1,13 @@
-## Hi there 👋  
+💻  Junior developer at [les-tilleuls.coop](https://github.com/coopTilleuls)
 
-💻 I'm currently doing a 12 month apprenticeship in Nantes at https://les-tilleuls.coop/  
-🌱 Before this career change I gratuaded an ecology and agronomy master degree and worked in this field for a bit.  
-🛠 You will find here some of the group projects I worked on, programming languages & tools I have used.  
-📫 How to reach me: nathan.pesneau@gmail.com
+🌱 I previously studied ecology and agronomy, and worked for a while in that sector
+
 
 ## Front 
-[![FrontSkills](https://skillicons.dev/icons?i=html,css,react)](https://skillicons.dev)
+[![FrontSkills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 ## Back
-[![Back&DBSkills](https://skillicons.dev/icons?i=php,symfony,laravel,js,python,java,spring,r,mysql,postgres)](https://skillicons.dev)
+[![Back&DBSkills](https://skillicons.dev/icons?i=php,symfony,js,python,r,mysql,postgres)](https://skillicons.dev)
 
 ## Tools 
-[![Tools](https://skillicons.dev/icons?i=docker,postman,github,figma)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=docker,postman,github,gitlab,figma)](https://skillicons.dev)
