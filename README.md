@@ -1,4 +1,4 @@
-💻  Junior developer at [les-tilleuls.coop](https://github.com/coopTilleuls)
+💻  Developer at [les-tilleuls.coop](https://github.com/coopTilleuls)
 
 🌱 I previously studied ecology and agronomy, and worked for a while in that sector
 
